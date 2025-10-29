@@ -7,9 +7,7 @@
 ---
 
 ## 🧭 Overview
-EcoWatts is a data-driven web application designed to monitor, analyze, and optimize household electricity consumption.  
-The system helps users identify high-energy-consuming appliances, track daily/weekly usage trends, and receive actionable insights for saving energy and reducing electricity bills.  
-Using real-time analytics and predictive modeling, EcoWatts promotes sustainable living and efficient energy management.
+EcoWatts is a data-driven web application designed to monitor, analyze, and optimize household electricity consumption. The system helps users identify high-energy-consuming appliances, track daily/weekly usage trends, and receive actionable insights for saving energy and reducing electricity bills.  Using real-time analytics and predictive modeling, EcoWatts promotes sustainable living and efficient energy management.
 
 ---
 
@@ -25,7 +23,7 @@ Using real-time analytics and predictive modeling, EcoWatts promotes sustainable
 ---
 
 ## 🧩 Dataset
-**Name:** Smart Home Energy Consumption Dataset  
+**Name:** energy_usage_Dataset.csv  
 
 **Description:**  
 Contains timestamped appliance usage data with the following columns:
@@ -37,7 +35,7 @@ Contains timestamped appliance usage data with the following columns:
 - `Temperature (°C)`
 - `Cost (INR)`
 
-**Size:** 1,000–5,000 records  
+**Size:** 200 records  
 **Source:** Custom dataset or open-source (Kaggle / simulated IoT smart home dataset)
 
 ---
@@ -83,8 +81,7 @@ Contains timestamped appliance usage data with the following columns:
 
 ## 👨‍💻 Author
 **Aniket Dombale**  
-Department of Technology (Data Science)  
-Savitribai Phule Pune University  
+Department of Technology, Savitribai Phule Pune University  
 
 ---
 
@@ -94,4 +91,3 @@ This project is open-source and free to use, modify, and distribute for academic
 
 ---
 
-⭐ *If you like this project, don’t forget to star the repository and share it with your peers!* 🌱
